@@ -1,0 +1,82 @@
+{
+  "baseURL": "https://github.com/lllll8505-ui/m4r8-mediakit/releases/download/packs/",
+  "packs": [
+    {
+      "name": "999 Presets A",
+      "file": "999-Presets-A.zip",
+      "bytes": 4768073,
+      "count": 57,
+      "sha256": "938d27959ff4c848cb40976e05f1773fe95ec8638b0dc166e06c2402dee011cf"
+    },
+    {
+      "name": "999 Presets B",
+      "file": "999-Presets-B.zip",
+      "bytes": 9442420,
+      "count": 108,
+      "sha256": "4babf7d4e4e888c1ed39fe139001de9d23c00ddced85f438519009db9c19baf7"
+    },
+    {
+      "name": "999 Presets C",
+      "file": "999-Presets-C.zip",
+      "bytes": 11188377,
+      "count": 134,
+      "sha256": "5583d41cc47b193f9d34c7ad7ae95d76051e28dfdb8010f2b9933a40b6bab622"
+    },
+    {
+      "name": "999 Presets D",
+      "file": "999-Presets-D.zip",
+      "bytes": 9773721,
+      "count": 113,
+      "sha256": "25eff35fa4da72136ad629ca831ff26c803c90a7040f99740c22b3503f846290"
+    },
+    {
+      "name": "999 Presets E",
+      "file": "999-Presets-E.zip",
+      "bytes": 11231499,
+      "count": 132,
+      "sha256": "6a3bd42af3eaf644fd2a65e50a56a04518c8c653f588359917c8402bed5d4b2e"
+    },
+    {
+      "name": "999 Presets F",
+      "file": "999-Presets-F.zip",
+      "bytes": 8919084,
+      "count": 104,
+      "sha256": "2a2ad12916b8f2f9855bdfef8368fd5328d0e6e1217c31768e438c7879c51a63"
+    },
+    {
+      "name": "999 Presets G",
+      "file": "999-Presets-G.zip",
+      "bytes": 10140611,
+      "count": 117,
+      "sha256": "9d319525b535c85a6ccc17b2868e4c1823c4fee597edc31c2d5388ec04c04f9d"
+    },
+    {
+      "name": "999 Presets H",
+      "file": "999-Presets-H.zip",
+      "bytes": 11467366,
+      "count": 135,
+      "sha256": "97dec631ef8713df291b3716944e4b2448be0cd0fc0168e37363546dedaf8ac3"
+    },
+    {
+      "name": "999 Presets I",
+      "file": "999-Presets-I.zip",
+      "bytes": 9110550,
+      "count": 106,
+      "sha256": "4e38d6a041994e622cf9ceaa4f34df54f0eb4b6c6d6b6189e2d71b6a4039cbff"
+    },
+    {
+      "name": "CCMMJJ Vol.1",
+      "file": "CCMMJJ-Vol.1.zip",
+      "bytes": 687104,
+      "count": 8,
+      "sha256": "6bc7244257bc34fadc9db08a9425d9458df24c6dc3e6f32501c9adf985c383ca"
+    },
+    {
+      "name": "Log Vol.1",
+      "file": "Log-Vol.1.zip",
+      "bytes": 534464,
+      "count": 4,
+      "sha256": "54f8183d90c999de34856bb06999718ecf7717259bbbe953741d104917915ae2"
+    }
+  ]
+}
