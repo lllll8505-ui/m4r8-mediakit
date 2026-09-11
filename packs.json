@@ -2,81 +2,81 @@
   "baseURL": "https://github.com/lllll8505-ui/m4r8-mediakit/releases/download/packs/",
   "packs": [
     {
-      "name": "999 Presets A",
-      "file": "999-Presets-A.zip",
-      "bytes": 4768073,
+      "name": "A",
+      "file": "A.zip",
+      "bytes": 134593432,
       "count": 57,
-      "sha256": "938d27959ff4c848cb40976e05f1773fe95ec8638b0dc166e06c2402dee011cf"
+      "sha256": "7f05342984802cd6ebe673e9fb1d403a11502bb3194a954b188c772b5e9a031f"
     },
     {
-      "name": "999 Presets B",
-      "file": "999-Presets-B.zip",
-      "bytes": 9442420,
+      "name": "B",
+      "file": "B.zip",
+      "bytes": 267822423,
       "count": 108,
-      "sha256": "4babf7d4e4e888c1ed39fe139001de9d23c00ddced85f438519009db9c19baf7"
+      "sha256": "5bc6afe6f963f5e19a350bea00d2bfd03d996514a67ba282cee16bca6e619668"
     },
     {
-      "name": "999 Presets C",
-      "file": "999-Presets-C.zip",
-      "bytes": 11188377,
+      "name": "C",
+      "file": "C.zip",
+      "bytes": 315268071,
       "count": 134,
-      "sha256": "5583d41cc47b193f9d34c7ad7ae95d76051e28dfdb8010f2b9933a40b6bab622"
+      "sha256": "550986856a7566a54b5c6996cbab4726dc4de777efc05329fb78814a09e46193"
     },
     {
-      "name": "999 Presets D",
-      "file": "999-Presets-D.zip",
-      "bytes": 9773721,
+      "name": "D",
+      "file": "D.zip",
+      "bytes": 278403026,
       "count": 113,
-      "sha256": "25eff35fa4da72136ad629ca831ff26c803c90a7040f99740c22b3503f846290"
+      "sha256": "0f40af1b2615c080850b09b295cd2ae271336c89285dcd3f15122361ac0b7c7a"
     },
     {
-      "name": "999 Presets E",
-      "file": "999-Presets-E.zip",
-      "bytes": 11231499,
+      "name": "E",
+      "file": "E.zip",
+      "bytes": 316488881,
       "count": 132,
-      "sha256": "6a3bd42af3eaf644fd2a65e50a56a04518c8c653f588359917c8402bed5d4b2e"
+      "sha256": "cabca694955b4ca876ea7444d6bdcd715f0f84e36acd50f2570b096a1dadf1ae"
     },
     {
-      "name": "999 Presets F",
-      "file": "999-Presets-F.zip",
-      "bytes": 8919084,
+      "name": "F",
+      "file": "F.zip",
+      "bytes": 250264975,
       "count": 104,
-      "sha256": "2a2ad12916b8f2f9855bdfef8368fd5328d0e6e1217c31768e438c7879c51a63"
+      "sha256": "065f3f4c46952006ebba69bd4880e9da61fddcf13ea0dbe98b00de8f4bf4a808"
     },
     {
-      "name": "999 Presets G",
-      "file": "999-Presets-G.zip",
-      "bytes": 10140611,
+      "name": "G",
+      "file": "G.zip",
+      "bytes": 287897806,
       "count": 117,
-      "sha256": "9d319525b535c85a6ccc17b2868e4c1823c4fee597edc31c2d5388ec04c04f9d"
+      "sha256": "ab5e3e2d824cd61733d3d8b297ea8ee212db10166c8381afe4933c5f8df27ee2"
     },
     {
-      "name": "999 Presets H",
-      "file": "999-Presets-H.zip",
-      "bytes": 11467366,
+      "name": "H",
+      "file": "H.zip",
+      "bytes": 325534507,
       "count": 135,
-      "sha256": "97dec631ef8713df291b3716944e4b2448be0cd0fc0168e37363546dedaf8ac3"
+      "sha256": "5ee7d1850a844af0e5f731ab2472448ae96a48859bcc13d9950a8c7b232d49dd"
     },
     {
-      "name": "999 Presets I",
-      "file": "999-Presets-I.zip",
-      "bytes": 9110550,
+      "name": "I",
+      "file": "I.zip",
+      "bytes": 258019201,
       "count": 106,
-      "sha256": "4e38d6a041994e622cf9ceaa4f34df54f0eb4b6c6d6b6189e2d71b6a4039cbff"
+      "sha256": "1101414e23d9584822da1770946cd3053140468a34c3ab57e80f804e6df1a6e1"
     },
     {
       "name": "CCMMJJ Vol.1",
       "file": "CCMMJJ-Vol.1.zip",
-      "bytes": 687104,
+      "bytes": 20167402,
       "count": 8,
-      "sha256": "6bc7244257bc34fadc9db08a9425d9458df24c6dc3e6f32501c9adf985c383ca"
+      "sha256": "1a18ee8db77706fa5f25d57713f6879ccb1486dbf8c368b366770f1b944ec133"
     },
     {
       "name": "Log Vol.1",
       "file": "Log-Vol.1.zip",
       "bytes": 534464,
       "count": 4,
-      "sha256": "54f8183d90c999de34856bb06999718ecf7717259bbbe953741d104917915ae2"
+      "sha256": "1fd9b0eba29ea6425452e66f47b88517289752c075d0dc19bbfe5707bcfe8669"
     }
   ]
 }
